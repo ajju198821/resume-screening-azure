@@ -1,0 +1,6 @@
+streamlit
+azure-storage-blob
+azure-ai-textanalytics
+scikit-learn
+pdfplumber
+python-docx
