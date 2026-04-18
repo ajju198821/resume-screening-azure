@@ -4,3 +4,4 @@ azure-ai-textanalytics
 scikit-learn
 pdfplumber
 python-docx
+python-dotenv
